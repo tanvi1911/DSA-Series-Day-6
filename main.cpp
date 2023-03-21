@@ -13,29 +13,40 @@ Step 7: Print the output
 
 */
 
-
 int main() {
-//   int n;
-//   cin >> n;
-//   int ans = 0;
 
-//   while(n!=0) {
-//     int digit = n % 10;
-//     ans = (10*ans) + digit;
-//     n = n / 10;
-//   }
-//   cout << ans;
+  /*****************************REVERSE A
+   * NUMBER*************************************************************/
 
-int n;
-  cout << "Enter a number";
-cin >> n;
-int m = n;
-int mask = 0;
+  //   int n;
+  //   cin >> n;
+  //   int ans = 0;
 
-while (m!=0) {
-  m 
-}
+  //   while(n!=0) {
+  //     int digit = n % 10;
+  //     ans = (10*ans) + digit;
+  //     n = n / 10;
+  //   }
+  //   cout << ans;
 
+  /*****************************COMPLEMENT A
+   * NUMBER*************************************************************/
 
+  // int n;
+  //   cout << "Enter a number";
+  // cin >> n;
+  // int m = n;
+  // int mask = 0;
 
+  // while (m!=0) {
+  //   mask = (mask << 1) | 1;
+  //   cout << "mask" << mask << endl;
+  //   m = m >> 1;
+  //   cout << "m" << m << endl;
+  // }
+
+  //   int ans = ~n & mask;
+  //   cout << "The Final Answer is : " << ans << endl;
+
+  
 }
